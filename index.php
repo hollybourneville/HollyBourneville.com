@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Hollys Page</title>
-</head>
-<body>
-	<h1>Hollys Page!</h1>
-</body>
+
+		<!-- Not shown on page -->
+	<head> 
+		<link rel="stylesheet" type="text/css" href="styling.css">
+		<title>Hollys Page</title>
+	</head>
+
+		<!-- Shown on page -->
+	<body>
+
+		<div>
+			<h1 class="heading">Hollys Page!</h1>
+		</div>
+		
+	</body>
+
 </html>
